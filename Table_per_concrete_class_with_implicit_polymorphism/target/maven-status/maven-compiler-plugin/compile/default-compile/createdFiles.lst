@@ -1,0 +1,6 @@
+com\proxycode\dao\PersonDao.class
+com\proxycode\daoImpl\PerosnDaoImpl.class
+com\proxycode\main\MainMethod.class
+com\proxycode\model\Teacher.class
+com\proxycode\model\Student.class
+com\proxycode\model\Person.class
